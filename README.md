@@ -1,6 +1,6 @@
-# **My Portfolio!**
+# **My Projects**
 
-This portfolio showcases some analytical, financial, and technical projects I built during my MSc in Business Analytics and personal development.
+This work showcases some analytical, financial, and technical projects I built during my MSc in Business Analytics and personal development.
 
 📈 **Portfolio Optimization — MV, NSMV, MIMV**
 
