@@ -1,3 +1,6 @@
+# H1 **MY PORTFOLIO!**
+
+This portfolio showcases some analytical, financial, and technical projects I built during my MSc in Business Analytics and personal development.
 
 📈 **Portfolio Optimization — MV, NSMV, MIMV**
 
