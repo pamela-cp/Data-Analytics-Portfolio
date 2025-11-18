@@ -1,7 +1,7 @@
 
 📈 **Portfolio Optimization — MV, NSMV, MIMV**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Portfolio-Optimization/blob/main/notebooks/Portfolio-Optimisation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Portfolio-Optimization/raw/main/notebooks/Portfolio-Optimisation.ipynb)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio--Optimization-black?logo=github)](https://github.com/pamela-cp/Portfolio-Optimization)
 
 Robust portfolio construction using Mean-Variance, downside-risk optimisation, and Minimum-Information MV.
