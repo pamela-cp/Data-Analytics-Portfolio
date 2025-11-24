@@ -2,7 +2,7 @@
 
 This work showcases some analytical, financial, and technical projects I built during my MSc in Business Analytics and personal development.
 
-## **Portfolio Optimization — MV, NSMV, MIMV**
+## **Portfolio Optimization: MV, NSMV, MIMV**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Portfolio-Optimization/blob/main/notebooks/Porfolio_Optimisation.ipynb)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio--Optimization-black?logo=github)](https://github.com/pamela-cp/Portfolio-Optimization)
