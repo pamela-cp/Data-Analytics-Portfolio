@@ -12,32 +12,39 @@ Includes rolling-window backtests, shrinkage estimators, risk metrics, and dashb
 
 🔗 GitHub: [https://github.com/pamela-cp/Portfolio-Optimization](https://github.com/pamela-cp/Portfolio-Optimization)
 
+## **Buildmax: Revenue and Fleet Utilisation Optimisation**
+
+Implementing a revenue management solution for a construction equipment rental company that optimizes rental allocations leading to higher demand fulfilment, improved equipment utilization, increased revenue, and enhanced ROI. (Link to notebooks soon to be uploaded by 25/11)
+- Tools: Python
+
 ## **Review Prediction: eCommerce Platform**
 
-Understanding the business problem and finding the main drivers to predict good reviews by using Random Forest, Gradient Boosted Decision Trees (GBDT), and Extreme Gradient Boosting (XGBoost) machine learning models on Python.
+Understanding the business problem and finding the main drivers to predict good reviews by using Random Forest, Gradient Boosted Decision Trees (GBDT), and Extreme Gradient Boosting (XGBoost) machine learning models on Python. (Link to notebooks soon to be uploaded by 25/11)
+- Tools: Python
 
-## **York Footfall Data: t-tests for comparisons and business advice**
+## **York Footfall Data: T-tests for comparisons and business advice**
 
-Determining the best location to place the stall that maximizes footfall, running tests to confirm statistical significance of conclusions for the scenarios where the stall is operating every day of the week and where it operates only at weekends.
+Determining the best location to place the stall that maximizes footfall, running tests to confirm statistical significance of conclusions for the scenarios where the stall is operating every day of the week and where it operates only at weekends. (Link to notebooks soon to be uploaded by 25/11)
+- Tools: R Studio
 
 ## **Cardiovascular Disease in England: Identifying factors affecting the prevalence of CVD in an area**
 
-Identifying which of these factors (overweight, smokers, wellbeing, and poverty) affect the prevalence of CVD by using data from the UK Office for National Statistics
+Identifying which of these factors (overweight, smokers, wellbeing, and poverty) affect the prevalence of CVD by using data from the UK Office for National Statistics. (Link to notebooks soon to be uploaded by 26/11)
+- Tools: R Studio
 
 ## **Customer Satisfaction: Effects of staff job satisfaction, delivery time, local socio-economic-status, and new products availability**
 
 Analysis of the effect of customer satisfaction score, the average staff job satisfaction score, the average delivery time of large and custom items, whether the store
-was carrying a new range of products, and the company’s categorisation of store type by local socio-economic-status (low, medium and high) of a furniture retail company.
+was carrying a new range of products, and the company’s categorisation of store type by local socio-economic-status (low, medium and high) of a furniture retail company. (Link to notebooks soon to be uploaded by 26/11)
+- Tools: R Studio
 
 ## **A/B Testing for Loan Review Procedure improvement**
 
 Evaluating the effectiveness of a new loan review process by running an A/B test of an experiment conducted to determine whether the new model enhances
-decision-making, reduces errors, and improves profitability.
+decision-making, reduces errors, and improves profitability. (Link to notebooks soon to be uploaded by 26/11)
+- Tools: R Studio
 
-## **Development of a data product that provides business insights for a company**
+## **Development of a Data product that provides business insights for a company**
 
-Development of a data product for 1Rebel Gym through the utilization of a structured SQLite database. The project encompasses synthetic data generation, business analysis through insights, and report generation to formulate operational effectiveness and facilitate data-driven decision-making.
-
-## **Buildmax: Revenue and fleet utilisation Optimisation**
-
-Implementing a revenue management solution for a construction equipment rental company that optimizes rental allocations leading to higher demand fulfilment, improved equipment utilization, increased revenue, and enhanced ROI.
+Development of a data product for 1Rebel Gym through the utilization of a structured SQLite database. The project encompasses synthetic data generation, business analysis through insights, and report generation to formulate operational effectiveness and facilitate data-driven decision-making. (Link to notebooks soon to be uploaded by 26/11)
+- Tools: Python, SQLite
