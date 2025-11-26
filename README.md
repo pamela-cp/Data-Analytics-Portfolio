@@ -15,34 +15,34 @@ Includes rolling-window backtests, shrinkage estimators, risk metrics, and dashb
 
 ## **Buildmax: Revenue and Fleet Utilisation Optimisation**
 
-Implementing a revenue management solution for a construction equipment rental company that optimizes rental allocations leading to higher demand fulfilment, improved equipment utilization, increased revenue, and enhanced ROI. Link to notebooks soon to be uploaded by 25/11.
+Implementing a revenue management solution for a construction equipment rental company that optimizes rental allocations leading to higher demand fulfilment, improved equipment utilization, increased revenue, and enhanced ROI. Link to notebooks soon to be uploaded by 27/11.
 - Tools: Python, Excel
 
 ## **Review Prediction: eCommerce Platform**
 
-Understanding the business problem and finding the main drivers to predict good reviews by using Random Forest, Gradient Boosted Decision Trees (GBDT), and Extreme Gradient Boosting (XGBoost) machine learning models on Python. (Link to notebooks soon to be uploaded by 25/11)
+Understanding the business problem and finding the main drivers to predict good reviews by using Random Forest, Gradient Boosted Decision Trees (GBDT), and Extreme Gradient Boosting (XGBoost) machine learning models on Python. (Link to notebooks soon to be uploaded by 27/11)
 - Tools: Python, Excel, Tableau
 
 ## **York Footfall Data: T-tests for comparisons and business advice**
 
-Determining the best location to place the stall that maximizes footfall, running tests to confirm statistical significance of conclusions for the scenarios where the stall is operating every day of the week and where it operates only at weekends. Link to notebooks soon to be uploaded by 25/11.
+Determining the best location to place the stall that maximizes footfall, running tests to confirm statistical significance of conclusions for the scenarios where the stall is operating every day of the week and where it operates only at weekends. Link to notebooks soon to be uploaded by 27/11.
 - Tools: R Studio
 
 ## **Cardiovascular Disease in England: Identifying factors affecting the prevalence of CVD in an area**
 
-Identifying which of these factors (overweight, smokers, wellbeing, and poverty) affect the prevalence of CVD by using data from the UK Office for National Statistics. Link to notebooks soon to be uploaded by 26/11.
+Identifying which of these factors (overweight, smokers, wellbeing, and poverty) affect the prevalence of CVD by using data from the UK Office for National Statistics. Link to notebooks soon to be uploaded by 28/11.
 - Tools: R Studio
 
 ## **Customer Satisfaction: Effects of staff job satisfaction, delivery time, local socio-economic-status, and new products availability**
 
 Analysis of the effect of customer satisfaction score, the average staff job satisfaction score, the average delivery time of large and custom items, whether the store
-was carrying a new range of products, and the company’s categorisation of store type by local socio-economic-status (low, medium and high) of a furniture retail company. Link to notebooks soon to be uploaded by 26/11.
+was carrying a new range of products, and the company’s categorisation of store type by local socio-economic-status (low, medium and high) of a furniture retail company. Link to notebooks soon to be uploaded by 28/11.
 - Tools: R Studio
 
 ## **A/B Testing for Loan Review Procedure improvement**
 
 Evaluating the effectiveness of a new loan review process by running an A/B test of an experiment conducted to determine whether the new model enhances
-decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 26/11.
+decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 28/11.
 - Tools: R Studio, Excel
 
 ## **Development of a Data product that provides business insights for a company**
