@@ -57,7 +57,7 @@ was carrying a new range of products, and the company’s categorisation of stor
 ## **New Loan Review Procedure: A/B Testing for improvement**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/New-Loan-Review-Procedure/blob/main/notebooks/New_Loan_Review_Procedure.ipynb)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-York--Footfall--Data-black?logo=github)](https://github.com/pamela-cp/New-Loan-Review-Procedure)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-New--Loan--Review--Procedure-black?logo=github)](https://github.com/pamela-cp/New-Loan-Review-Procedure)
 
 Evaluating the effectiveness of a new loan review process by running an A/B test of an experiment conducted to determine whether the new model enhances
 decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 01/12.
