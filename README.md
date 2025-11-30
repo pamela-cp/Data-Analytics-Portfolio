@@ -4,7 +4,7 @@ This work showcases some analytical, financial, and technical projects I built d
 
 ## **Portfolio Optimisation: MV, NSMV, MIMV**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Portfolio-Optimisation/blob/main/notebooks/Porfolio_Optimisation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Portfolio-Optimisation/blob/main/notebooks/Portfolio_Optimisation.ipynb)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Portfolio--Optimisation-black?logo=github)](https://github.com/pamela-cp/Portfolio-Optimisation)
 
 Robust portfolio construction using Mean-Variance, downside-risk optimisation, and Minimum-Information MV.
