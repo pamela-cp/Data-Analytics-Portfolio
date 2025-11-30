@@ -48,7 +48,7 @@ Analysis of the effect of customer satisfaction score, the average staff job sat
 was carrying a new range of products, and the company’s categorisation of store type by local socio-economic-status (low, medium and high) of a furniture retail company. Link to notebooks soon to be uploaded by 01/12.
 - Tools: R Studio
 
-## **A/B Testing for Loan Review Procedure improvement**
+## **New Loan Review Procedure: A/B Testing for improvement**
 
 Evaluating the effectiveness of a new loan review process by running an A/B test of an experiment conducted to determine whether the new model enhances
 decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 01/12.
