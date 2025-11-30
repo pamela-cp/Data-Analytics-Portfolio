@@ -13,19 +13,28 @@ Includes rolling-window backtests, shrinkage estimators, risk metrics, and dashb
 
 🔗 GitHub: [https://github.com/pamela-cp/Portfolio-Optimization](https://github.com/pamela-cp/Portfolio-Optimization)
 
-## **Buildmax: Revenue and Fleet Utilisation Optimisation**
+## **Buildmax: Revenue and Fleet Optimisation**
 
-Implementing a revenue management solution for a construction equipment rental company that optimizes rental allocations leading to higher demand fulfilment, improved equipment utilization, increased revenue, and enhanced ROI. Link to notebooks soon to be uploaded by 01/12.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Revenue-Fleet-Optimisation/blob/main/notebooks/Revenue_Fleet_Optimisation.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Revenue--&--Fleet--Optimisation-black?logo=github)](https://github.com/pamela-cp/Revenue-Fleet-Optimisation)
+
+Implementing a revenue management solution for a construction equipment rental company that optimizes rental allocations leading to higher demand fulfilment, improved equipment utilization, increased revenue, and enhanced ROI.
 - Tools: Python, Excel
 
 ## **Review Prediction: eCommerce Platform**
 
-Understanding the business problem and finding the main drivers to predict good reviews by using Random Forest, Gradient Boosted Decision Trees (GBDT), and Extreme Gradient Boosting (XGBoost) machine learning models on Python. Link to notebooks soon to be uploaded by 01/12.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Review-Prediction/blob/main/notebooks/Review-Prediction.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Revenue--&--Fleet--Optimisation-black?logo=github)](https://github.com/pamela-cp/Review-Prediction)
+
+Understanding the business problem and finding the main drivers to predict good reviews by using Random Forest, Gradient Boosted Decision Trees (GBDT), and Extreme Gradient Boosting (XGBoost) machine learning models on Python.
 - Tools: Python, Excel, Tableau
 
 ## **York Footfall Data: T-tests for comparisons and business advice**
 
-Determining the best location to place the stall that maximizes footfall, running tests to confirm statistical significance of conclusions for the scenarios where the stall is operating every day of the week and where it operates only at weekends. Link to notebooks soon to be uploaded by 01/12.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/York-Footfall-Data/blob/main/notebooks/York_Footfall_Data.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Revenue--&--Fleet--Optimisation-black?logo=github)](https://github.com/pamela-cp/York-Footfall-Data)
+
+Determining the best location to place the stall that maximizes footfall, running tests to confirm statistical significance of conclusions for the scenarios where the stall is operating every day of the week and where it operates only at weekends.
 - Tools: R Studio
 
 ## **Cardiovascular Disease in England: Identifying factors affecting the prevalence of CVD in an area**
