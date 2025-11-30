@@ -11,8 +11,6 @@ Robust portfolio construction using Mean-Variance, downside-risk optimisation, a
 Includes rolling-window backtests, shrinkage estimators, risk metrics, and dashboard visualisation.
 - Tools: Python, Excel
 
-🔗 GitHub: [https://github.com/pamela-cp/Portfolio-Optimization](https://github.com/pamela-cp/Portfolio-Optimization)
-
 ## **Buildmax: Revenue and Fleet Optimisation**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Revenue-Fleet-Optimisation/blob/main/notebooks/Revenue_Fleet_Optimisation.ipynb)
