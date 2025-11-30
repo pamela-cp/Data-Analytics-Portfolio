@@ -39,16 +39,25 @@ Determining the best location to place the stall that maximizes footfall, runnin
 
 ## **Cardiovascular Disease in England: Identifying factors affecting the prevalence of CVD in an area**
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Cardiovascular-Disease/blob/main/notebooks/Cardiovascular_Disease_England.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Cardiovascular--Disease--in--England-black?logo=github)](https://github.com/pamela-cp/Cardiovascular-Disease)
+
 Identifying which of these factors (overweight, smokers, wellbeing, and poverty) affect the prevalence of CVD by using data from the UK Office for National Statistics. Link to notebooks soon to be uploaded by 01/12.
 - Tools: R Studio
 
 ## **Customer Satisfaction: Effects of staff job satisfaction, delivery time, local socio-economic-status, and new products availability**
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/Variables-Effects-Customer-Satisfaction/blob/main/notebooks/Customer_Satisfaction.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Customer--Satisfaction-black?logo=github)](https://github.com/pamela-cp/Variables-Effects-Customer-Satisfaction)
 
 Analysis of the effect of customer satisfaction score, the average staff job satisfaction score, the average delivery time of large and custom items, whether the store
 was carrying a new range of products, and the company’s categorisation of store type by local socio-economic-status (low, medium and high) of a furniture retail company. Link to notebooks soon to be uploaded by 01/12.
 - Tools: R Studio
 
 ## **New Loan Review Procedure: A/B Testing for improvement**
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamela-cp/New-Loan-Review-Procedure/blob/main/notebooks/New_Loan_Review_Procedure.ipynb)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-York--Footfall--Data-black?logo=github)](https://github.com/pamela-cp/New-Loan-Review-Procedure)
 
 Evaluating the effectiveness of a new loan review process by running an A/B test of an experiment conducted to determine whether the new model enhances
 decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 01/12.
