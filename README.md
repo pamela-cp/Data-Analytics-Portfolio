@@ -54,7 +54,7 @@ Evaluating the effectiveness of a new loan review process by running an A/B test
 decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 01/12.
 - Tools: R Studio, Excel
 
-## **Development of a Data product that provides business insights for a company**
+## **Development of a Data product: Providing business insights for a company**
 
 Development of a data product for 1Rebel Gym through the utilization of a structured SQLite database. The project encompasses synthetic data generation, business analysis through insights, and report generation to formulate operational effectiveness and facilitate data-driven decision-making. Link to notebooks soon to be uploaded by 01/12.
 - Tools: Python, SQLite, Tableau, Excel
