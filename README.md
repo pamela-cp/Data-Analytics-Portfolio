@@ -58,10 +58,10 @@ was carrying a new range of products, and the company’s categorisation of stor
 [![GitHub Repo](https://img.shields.io/badge/GitHub-New--Loan--Review--Procedure-black?logo=github)](https://github.com/pamela-cp/New-Loan-Review-Procedure)
 
 Evaluating the effectiveness of a new loan review process by running an A/B test of an experiment conducted to determine whether the new model enhances
-decision-making, reduces errors, and improves profitability. Link to notebooks soon to be uploaded by 01/12.
+decision-making, reduces errors, and improves profitability.
 - Tools: R Studio, Excel
 
 ## **Development of a Data product: Providing business insights for a company**
 
-Development of a data product for 1Rebel Gym through the utilization of a structured SQLite database. The project encompasses synthetic data generation, business analysis through insights, and report generation to formulate operational effectiveness and facilitate data-driven decision-making. Link to notebooks soon to be uploaded by 01/12.
+Development of a data product for 1Rebel Gym through the utilization of a structured SQLite database. The project encompasses synthetic data generation, business analysis through insights, and report generation to formulate operational effectiveness and facilitate data-driven decision-making.
 - Tools: Python, SQLite, Tableau, Excel
